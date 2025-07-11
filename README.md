@@ -78,16 +78,18 @@ To-Do-App/
 
 
 ## 🔧 Installation & Setup
-**Clone the repository**
-- git clone https://github.com/Shreeyog-Gaikwad/To-Do-App.git
-- cd todo-app
+```bash
+# Clone the repository
+git clone https://github.com/Shreeyog-Gaikwad/To-Do-App.git
+cd To-Do-App
 
-**Install dependencies**
-- npm install
-- npm install tailwindcss @tailwindcss/vite
+# Install dependencies
+npm install
+npm install tailwindcss @tailwindcss/vite
 
-**Start the development server**
-- npm run dev
+# Start the development server
+npm run dev
+```
 
 
 ---------------------------------------------------------------------
@@ -95,3 +97,7 @@ To-Do-App/
 
 ## 🤝 Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you'd like to change.
+
+---------------------------------------------------------------------
+
+> Made with ❤️ by [Shreeyog Gaikwad](https://github.com/Shreeyog-Gaikwad)
