@@ -21,7 +21,7 @@ A responsive, interactive and clean **To-Do List** app built with **React** and 
 
 📸 Preview
 
-![To-Do App Screenshot](./Preview.png)
+![To-Do App Screenshot](./public/Preview.png)
 
 ---------------------------------------------------------------------
 
@@ -52,22 +52,37 @@ Delete or complete tasks using action icons
 
 📁 Project Structure
 
-```bash
-📦 todo-app/
+To-Do-App/       
+│
 ├── public/
-│   └── index.html
+│   └── index.html  
+│   └── Preview.png              
+│
 ├── src/
-│   ├── components/
-│   │   └── TaskBox.jsx
-│   ├── contexts/
+│   │
+│   ├── components/             
+│   │   ├── TaskBox.jsx
+│   │   └── TodoForm.jsx
+│   │
+│   ├── contexts/               
+│   │   ├── index.js
 │   │   └── TodoContext.js
-│   ├── App.js
-│   ├── index.js
-│   └── styles.css
-├── README.md
-└── package.json
+│   │
+│   ├── App.jsx
+│   ├── App.css
+│   ├── index.css
+│   ├── main.jsx
+│
+├── .gitignore
+├── package.json
+├── package-lock.json
+├── vite.config.js
+├── README.md                  
+└── LICENSE                     
+
 
 ---------------------------------------------------------------------
+
 
 🔧 Installation & Setup
 
@@ -82,7 +97,9 @@ npm install tailwindcss @tailwindcss/vite
 # Start the development server
 npm run dev
 
+
 ---------------------------------------------------------------------
+
 
 🤝 Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you'd like to change.
