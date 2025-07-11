@@ -47,7 +47,32 @@ Delete or complete tasks using action icons
 ---------------------------------------------------------------------
 
 ## 📁 Project Structure
-<pre>``` To-Do-App/ ├── public/ │ ├── index.html │ └── Preview.png │ ├── src/ │ ├── components/ │ │ ├── TaskBox.jsx │ │ └── TodoForm.jsx │ │ │ ├── contexts/ │ │ ├── index.js │ │ └── TodoContext.js │ │ │ ├── App.jsx │ ├── App.css │ ├── index.css │ ├── main.jsx │ ├── .gitignore ├── package.json ├── package-lock.json ├── vite.config.js ├── README.md └── LICENSE ``` </pre>
+<pre>``` 
+To-Do-App/
+├── public/
+│ ├── index.html
+│ └── Preview.png
+│
+├── src/
+│ ├── components/
+│ │ ├── TaskBox.jsx
+│ │ └── TodoForm.jsx
+│ │
+│ ├── contexts/
+│ │ ├── index.js
+│ │ └── TodoContext.js
+│ │
+│ ├── App.jsx
+│ ├── App.css
+│ ├── index.css
+│ ├── main.jsx
+│
+├── .gitignore
+├── package.json
+├── package-lock.json
+├── vite.config.js
+└── README.md
+``` </pre>
 
 ---------------------------------------------------------------------
 
