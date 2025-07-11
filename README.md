@@ -91,6 +91,7 @@ npm install tailwindcss @tailwindcss/vite
 npm run dev
 ```
 
+Open your browser at `http://localhost:5173` to see it in action.
 
 ---------------------------------------------------------------------
 
