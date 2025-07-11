@@ -1,10 +1,10 @@
- ✅ React To-Do App
+#✅ React To-Do App
 
 A responsive, interactive and clean **To-Do List** app built with **React** and **Tailwind CSS**, featuring editable tasks, priority levels, scheduled dates, and intuitive controls for managing your daily tasks effectively.
 
 ---------------------------------------------------------------------
 
-✨ Features
+#✨ Features
 
 - 📝 **Create, Edit, and Delete** tasks
 - ✅ **Mark tasks as complete**
@@ -19,14 +19,14 @@ A responsive, interactive and clean **To-Do List** app built with **React** and 
 ---------------------------------------------------------------------
 
 
-📸 Preview
+#📸 Preview
 
 ![To-Do App Screenshot](./public/Preview.png)
 
 ---------------------------------------------------------------------
 
 
-🧠 How It Works
+#🧠 How It Works
 
 Each task has:
 A title (editable)
@@ -42,7 +42,7 @@ Delete or complete tasks using action icons
 
 ---------------------------------------------------------------------
 
-🚀 Tech Stack
+#🚀 Tech Stack
 
 - **React** (Functional components + hooks)
 - **Tailwind CSS** for styling
@@ -50,7 +50,7 @@ Delete or complete tasks using action icons
 
 ---------------------------------------------------------------------
 
-📁 Project Structure
+#📁 Project Structure
 
 To-Do-App/       
 │
@@ -84,22 +84,23 @@ To-Do-App/
 ---------------------------------------------------------------------
 
 
-🔧 Installation & Setup
+#🔧 Installation & Setup
 
-# Clone the repository
-git clone https://github.com/Shreeyog-Gaikwad/To-Do-App.git
-cd todo-app
+**Clone the repository**
+-git clone https://github.com/Shreeyog-Gaikwad/To-Do-App.git
+-cd todo-app
 
-# Install dependencies
-npm install
-npm install tailwindcss @tailwindcss/vite
+**Install dependencies**
+-npm install
+-npm install tailwindcss @tailwindcss/vite
 
-# Start the development server
-npm run dev
+**Start the development server**
+-npm run dev
 
 
 ---------------------------------------------------------------------
 
 
-🤝 Contributing
+#🤝 Contributing
+
 Pull requests are welcome. For major changes, please open an issue first to discuss what you'd like to change.
