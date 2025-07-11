@@ -1,0 +1,18 @@
+.custom-scrollbar {
+  overflow-x: hidden; 
+}
+
+.custom-scrollbar::-webkit-scrollbar {
+  width: 6px;              
+  height: 0px !important;  
+}
+
+.custom-scrollbar::-webkit-scrollbar-track {
+  background: #e5e7eb;
+  border-radius: 10px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  background-color: #8a8a8a;
+  border-radius: 10px;
+}
