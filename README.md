@@ -1,11 +1,10 @@
-# ✅ React To-Do App
+# ✅ To-Do App
 
 A responsive, interactive and clean **To-Do List** app built with **React** and **Tailwind CSS**, featuring editable tasks, priority levels, scheduled dates, and intuitive controls for managing your daily tasks effectively.
 
 ---------------------------------------------------------------------
 
 ## ✨ Features
-
 - 📝 **Create, Edit, and Delete** tasks
 - ✅ **Mark tasks as complete**
 - 🗓️ **Schedule** tasks with a date input
@@ -20,14 +19,12 @@ A responsive, interactive and clean **To-Do List** app built with **React** and 
 
 
 ## 📸 Preview
-
 ![To-Do App Screenshot](./public/Preview.png)
 
 ---------------------------------------------------------------------
 
 
 ## 🧠 How It Works
-
 **Each task has:**
 A title (editable)
 A scheduled date
@@ -43,7 +40,6 @@ Delete or complete tasks using action icons
 ---------------------------------------------------------------------
 
 ## 🚀 Tech Stack
-
 - **React** (Functional components + hooks)
 - **Tailwind CSS** for styling
 - **React Icons** for interactive UI buttons
@@ -51,41 +47,12 @@ Delete or complete tasks using action icons
 ---------------------------------------------------------------------
 
 ## 📁 Project Structure
-
-To-Do-App/       
-│
-├── public/
-│   └── index.html  
-│   └── Preview.png              
-│
-├── src/
-│   │
-│   ├── components/             
-│   │   ├── TaskBox.jsx
-│   │   └── TodoForm.jsx
-│   │
-│   ├── contexts/               
-│   │   ├── index.js
-│   │   └── TodoContext.js
-│   │
-│   ├── App.jsx
-│   ├── App.css
-│   ├── index.css
-│   ├── main.jsx
-│
-├── .gitignore
-├── package.json
-├── package-lock.json
-├── vite.config.js
-├── README.md                  
-└── LICENSE                     
-
+<pre>``` To-Do-App/ ├── public/ │ ├── index.html │ └── Preview.png │ ├── src/ │ ├── components/ │ │ ├── TaskBox.jsx │ │ └── TodoForm.jsx │ │ │ ├── contexts/ │ │ ├── index.js │ │ └── TodoContext.js │ │ │ ├── App.jsx │ ├── App.css │ ├── index.css │ ├── main.jsx │ ├── .gitignore ├── package.json ├── package-lock.json ├── vite.config.js ├── README.md └── LICENSE ``` </pre>
 
 ---------------------------------------------------------------------
 
 
 ## 🔧 Installation & Setup
-
 **Clone the repository**
 - git clone https://github.com/Shreeyog-Gaikwad/To-Do-App.git
 - cd todo-app
@@ -102,5 +69,4 @@ To-Do-App/
 
 
 ## 🤝 Contributing
-
 Pull requests are welcome. For major changes, please open an issue first to discuss what you'd like to change.
